@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\aleksandr\documents\visual studio 2015\projects\mentalpoker_lab\mentalpoker_lab\player.cpp(18): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+c:\users\aleksandr\documents\visual studio 2015\projects\mentalpoker_lab\mentalpoker_lab\player.cpp(18): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+c:\users\aleksandr\documents\visual studio 2015\projects\mentalpoker_lab\mentalpoker_lab\player.cpp(34): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+c:\users\aleksandr\documents\visual studio 2015\projects\mentalpoker_lab\mentalpoker_lab\player.cpp(34): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+c:\users\aleksandr\documents\visual studio 2015\projects\mentalpoker_lab\mentalpoker_lab\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aleksandr\documents\visual studio 2015\projects\mentalpoker_lab\mentalpoker_lab\main.cpp(22): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+  MentalPoker_lab.vcxproj -> c:\users\aleksandr\documents\visual studio 2015\Projects\MentalPoker_lab\Debug\MentalPoker_lab.exe
+  MentalPoker_lab.vcxproj -> c:\users\aleksandr\documents\visual studio 2015\Projects\MentalPoker_lab\Debug\MentalPoker_lab.pdb (Partial PDB)
